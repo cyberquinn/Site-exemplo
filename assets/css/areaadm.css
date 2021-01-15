@@ -1,0 +1,29 @@
+
+/* 
+    Created on : 15/12/2020, 00:20:39
+    Author     : laura
+*/
+
+body{
+    background-color: black;
+     
+}
+.container{
+    background-color: black;
+   
+        
+}
+form{
+     border: 7px solid gray;
+    border-radius: 15px;
+}
+form label{
+    font-weight: bolder;
+    color: white;
+}
+h5{
+    color: white;
+}
+footer{
+    color: white;
+}

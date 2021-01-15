@@ -1,0 +1,42 @@
+
+/* 
+    Created on : 11/12/2020, 10:47:34
+    Author     : PROG WEB - MANHA
+*/
+
+
+
+body{
+    background-color: black;
+}
+
+.container{
+    padding: 50px;
+
+
+}        
+
+form{
+    border: 3px solid greenyellow;
+}
+h2{
+    color: white;
+}
+
+hr {
+    border:3px solid white;
+}
+.form-group label{
+    font-weight: bold;
+    color: white;
+}
+
+.padding{
+    padding-top: 55px;
+}
+.arredodamento{
+    border-radius: 15px;
+    border-color: black
+
+
+}

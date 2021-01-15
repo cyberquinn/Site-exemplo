@@ -1,0 +1,22 @@
+.bordas-laterais{
+    border: 3px solid greenyellow;
+}
+
+.botao-li{
+    none;
+}
+
+.arredondamento{
+    border-radius: 30px;
+    border: 3px solid greenyellow;
+}
+
+.arredondamento-img{
+    border-radius: 70px;
+    border:3px solid greenyellow;
+}
+
+.rodape li{
+    border: none;
+
+}
